@@ -1,0 +1,16 @@
+# Environments
+.conda/
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# Models
+models/
+*.pkl
+*.h5
+
+# VS Code
+.vscode/
